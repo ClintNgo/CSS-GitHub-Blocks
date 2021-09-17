@@ -1,0 +1,25 @@
+#background {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color:peachpuff;
+    height: 780px;
+    width: 700px;
+    padding: 1px;
+}
+.flex {
+    flex: auto;
+    justify-content: space-evenly;
+    display: flex;
+    background-color: #57c3ec;
+    margin: 10px;
+}
+.block {
+    height: 200px;
+    background-color: white;
+    width: 200px;
+    margin: 10px;
+}
+
+img {
+    width: 200px;
+}
